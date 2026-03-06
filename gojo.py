@@ -1,0 +1,1 @@
+print ("gojo  vive desgraça")
